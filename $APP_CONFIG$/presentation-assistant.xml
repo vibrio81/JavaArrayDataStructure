@@ -1,0 +1,9 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Mac OS X" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
