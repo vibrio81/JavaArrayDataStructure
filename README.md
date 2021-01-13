@@ -2,7 +2,7 @@
 Week9Day3
 Data Structures
 1. Write a program to sum all the values of a given Array in Java.
-2. What is the output?
+2. What is the output of the following code?
           
           double[ ] exampleArray = {1,5,6,5,4,1};
           double maximum = exampleArray[0];
