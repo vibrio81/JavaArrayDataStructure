@@ -2,6 +2,8 @@
   <component name="UISettings">
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
